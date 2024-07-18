@@ -28,7 +28,7 @@ My research interest primarily includes Video Generation/Understanding, Mutilmod
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV2024</a>.
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +37,7 @@ My research interest primarily includes Video Generation/Understanding, Mutilmod
 
 **Juncheng Ma**, Peiwen Sun, Yaoting Wang, Di Hu
 
-ECCV 2024 \| [**arXiv**](https://arxiv.org/abs/2407.11820) \| [**Project**](https://gewu-lab.github.io/stepping_stones/) \| [**PDF**](pdfs/09290.pdf) \| [**Supplementary**](pdfs/09290-supp.pdf)
+ECCV 2024 \| [**arXiv**](https://arxiv.org/abs/2407.11820) \| [**Code**](https://github.com/GeWu-Lab/Stepping-Stones) \| [**Project**](https://gewu-lab.github.io/stepping_stones/) \| [**PDF**](pdfs/09290.pdf) \| [**Supplementary**](pdfs/09290-supp.pdf)
 
 Rethink Audio-visual semantic segmentatoin from a new perspective, with a progressive two-stage training strategy proposed to enhance the capability of <span style="color:red">audio-visual alignment</span> .
 </div>
