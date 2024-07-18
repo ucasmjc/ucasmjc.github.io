@@ -51,7 +51,7 @@ Rethink audio-visual semantic segmentatoin from a new perspective, with a progre
 
 Research on video generation especially audio-driven image animation.
 
-Supervised by Dr. Yanan Sun and Dr. <a href='https://zengyh1900.github.io/'>Yanhong Zeng</a>.
+Supervised by Dr. Yanan Sun and Dr. <a href='https://zengyh1900.github.io/'>Yanhong Zeng</a>
 
 </div>
 </div>
@@ -64,7 +64,7 @@ Research on multimodal learning especially audio-visual segmentation, aiming to 
 
 One paper [*Stepping-Stones*](https://gewu-lab.github.io/stepping_stones/) is accepted by ECCV2024.
 
-Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>.
+Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 
 </div>
 </div>
