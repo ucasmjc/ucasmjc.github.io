@@ -44,7 +44,7 @@ Rethink Audio-visual semantic segmentatoin from a new perspective, with a progre
 </div>
 
 # 💻 Experiences
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pjlab.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge"></div><img src='images/pjlab.png' alt="sym" style="display: inline-block; width: 80%;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research Intern, Shanghai AI Laboratory, Shanghai, China, 2024.7-present**
