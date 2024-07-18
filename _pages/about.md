@@ -39,7 +39,7 @@ My research interest primarily includes Video Generation/Understanding, Mutilmod
 
 <span style="color:red">**ECCV 2024**</span> \| [**arXiv**](https://arxiv.org/abs/2407.11820) \| [**Code**](https://github.com/GeWu-Lab/Stepping-Stones) \| [**Project**](https://gewu-lab.github.io/stepping_stones/) \| [**PDF**](pdfs/09290.pdf) \| [**Supplementary**](pdfs/09290-supp.pdf)
 
-Rethink Audio-visual semantic segmentatoin from a new perspective, with a progressive two-stage training strategy proposed to enhance the capability of <span style="color:red">audio-visual alignment</span> .
+Rethink audio-visual semantic segmentatoin from a new perspective, with a progressive two-stage training strategy proposed to enhance the capability of <span style="color:red">audio-visual alignment</span> .
 </div>
 </div>
 
