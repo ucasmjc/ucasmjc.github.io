@@ -12,11 +12,11 @@ repository               : "ucasmjc/ucasmjc.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : dreamtfmjc # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-KP3VG7YYVZ # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification : dGWWrfWk8mgcITWV4xweCz0PmU4jP0hIUrp8u20-2Gg # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+bing_site_verification   : 0BEF6756E0CB5F4DBBA5BAD1DFE2C494 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 author:
