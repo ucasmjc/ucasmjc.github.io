@@ -107,7 +107,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 10px;
-  min-width: 200px;
+  min-width: 250px;
   line-height: 1;
 
   @include breakpoint($large) {
