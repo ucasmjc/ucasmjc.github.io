@@ -2,7 +2,7 @@
 
 # Site Settings
 title                    : "Juncheng Ma"
-description              : "Research Intern@PJLab"
+description              : "Intern@PJLab"
 repository               : "ucasmjc/ucasmjc.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -18,7 +18,7 @@ author:
   name             : "Juncheng Ma"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Undergraduate@UCAS"
-  location         : "Shanghai, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=1AZu9JUAAAAJ:u5HHmVD_uO8C

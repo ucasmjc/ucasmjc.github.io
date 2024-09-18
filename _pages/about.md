@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Short Bio 
-Hi! I am a junior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> . Previously, I explored audio-visual learning as a visiting student in <a href='https://gewu-lab.github.io/'>GeWu-Lab</a>, supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>.
+Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> . Previously, I explored mutilmodal learning as a visiting student in <a href='https://gewu-lab.github.io/'>GeWu-Lab</a>, supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>.
 
 I am currently interning at <a href='https://www.shlab.org.cn/'>Shanghai AI Laboratory</a>, focusing on video generation. I am excited to explore audio-driven image animation, supervised by Dr. Yanan Sun and Dr. <a href='https://zengyh1900.github.io/'>Yanhong Zeng</a>.
 
-My research interest primarily includes Video Generation/Understanding, Mutilmodal Learning and AI for Science.
+My research interest primarily includes Video Generation, Mutilmodal Learning and AI for Science.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV2024</a>.
