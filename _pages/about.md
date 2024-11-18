@@ -29,7 +29,7 @@ My research interest primarily includes Video Generation, Mutilmodal Learning an
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV2024</a>.
 
 
-# Publications 
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,12 +70,13 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 </div>
 </div>
 
+# Honors and Awards
+- *2024*, National Scholarship, Ministry of Education.
+- *2024*, First-class Scholarship
 
 # Educations
 - *2021.09 - present*, Undergraduate, University of Chinese Academy of Sciences. 
 
-# Honors and Awards
-- *2024*, National Scholarship, Ministry of Education.
-- *2024*, First-class Scholarship
+
 
 
