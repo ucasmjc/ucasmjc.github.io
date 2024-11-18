@@ -72,7 +72,7 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 
 # Honors and Awards
 - *2024*, National Scholarship, Ministry of Education.
-- *2024*, First-class Scholarship
+- *2024*, First-class Scholarship.
 
 # Educations
 - *2021.09 - present*, Undergraduate, University of Chinese Academy of Sciences. 
