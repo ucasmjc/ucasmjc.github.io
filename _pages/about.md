@@ -25,10 +25,11 @@ I am currently interning at <a href='https://www.shlab.org.cn/'>Shanghai AI Labo
 My research interest primarily includes Video Generation, Mutilmodal Learning and AI for Science.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I win the National Scholarship and First-class Scholarship!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV2024</a>.
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,7 +44,7 @@ Rethink audio-visual semantic segmentatoin from a new perspective, with a progre
 </div>
 </div>
 
-# 💻 Experiences
+# Experiences
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge"></div><img src='images/pjlab.png' alt="sym" style="display: inline-block; width: 80%;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -70,5 +71,11 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 </div>
 
 
-# 📖 Educations
+# Educations
 - *2021.09 - present*, Undergraduate, University of Chinese Academy of Sciences. 
+
+# Honors and Awards
+- *2024*, National Scholarship, Ministry of Education.
+- *2024*, First-class Scholarship
+
+
