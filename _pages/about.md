@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Short Bio 
-Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> . Previously, I explored mutilmodal learning as a visiting student in <a href='https://gewu-lab.github.io/'>GeWu-Lab</a>, supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>.
+Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> . 
 
-I am currently interning at <a href='https://www.shlab.org.cn/'>Shanghai AI Laboratory</a>, focusing on video generation. I am excited to explore audio-driven image animation, supervised by Dr. Yanan Sun and Dr. <a href='https://zengyh1900.github.io/'>Yanhong Zeng</a>.
+I will begin my MPhil in ECE, Peking University in the fall of 2025.
 
-My research interest primarily includes Video Generation, Mutilmodal Learning and AI for Science.
+My research interest primarily includes Video Generation, Mutilmodal Learning and Large Language Models.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I win the National Scholarship and First-class Scholarship!
@@ -48,7 +48,7 @@ Rethink audio-visual semantic segmentatoin from a new perspective, with a progre
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge"></div><img src='images/pjlab.png' alt="sym" style="display: inline-block; width: 80%;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Research Intern, Shanghai AI Laboratory, Shanghai, China, 2024.7-present**
+**Research Intern, Shanghai AI Laboratory, Shanghai, China, 2024.7-2024.11**
 
 Research on video generation especially audio-driven image animation.
 
