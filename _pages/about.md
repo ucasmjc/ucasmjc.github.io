@@ -24,7 +24,8 @@ I will begin my MPhil in ECE, Peking University in the fall of 2025.
 
 My research interest primarily includes Video Generation, Mutilmodal Learning and Large Language Models.
 
-# 🔥 News
+# News
+- ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of <a href='https://www.ucas.ac.cn/index.htm'>UCAS</a>.​
 - *2024.11*: &nbsp;🎉🎉 I win the China National Scholarship and First-Level Scholarship of UCAS!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV 2024</a>.
 
@@ -71,6 +72,8 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 </div>
 
 # Honors and Awards
+- *2025*, Outstanding Graduation Paper of UCAS.
+- *2025*, Outstanding Graduate of Beijing.
 - *2024*, China National Scholarship.
 - *2024*, First-Level Scholarship of UCAS.
 
