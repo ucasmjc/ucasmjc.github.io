@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Short Bio 
-Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> . 
+Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences </a>(UCAS) . 
 
 I will begin my MPhil in ECE, Peking University in the fall of 2025.
 
 My research interest primarily includes Video Generation, Mutilmodal Learning and Large Language Models.
 
 # News
-- ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of <a href='https://www.ucas.ac.cn/index.htm'>UCAS</a>.​
+- ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of UCAS.​
 - *2024.11*: &nbsp;🎉🎉 I win the China National Scholarship and First-Level Scholarship of UCAS!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV 2024</a>.
 
