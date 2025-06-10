@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juncheng Ma"
+title: "Juncheng Ma (马俊程)"
 excerpt: ""
 author_profile: true
 redirect_from: 
