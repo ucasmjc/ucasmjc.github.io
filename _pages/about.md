@@ -44,7 +44,7 @@ We present a cost-efficient approach to adapt image-based UMMs—already strong 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching
