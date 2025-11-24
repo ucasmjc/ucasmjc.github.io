@@ -33,13 +33,13 @@ My research interests primarily lie in video generation for real-world applicati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/omnigrid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Omni-Grid: Taming Image-based Unified Multimodal Models to Video
+<span>Omni-Grid: Taming Image-based Unified Multimodal Models to Video</span>
 
 **Juncheng Ma**, Yuelin Li, Yufan Deng, Zhenyu Tang, Dongdong Yu, Li Yuan, Changhu Wang, Daquan Zhou†, Yonghong Tian†
 
 <span style="color:red">**Under Review**</span>
 
-We present a cost-efficient approach to adapt image-based UMMs—already strong on interleaved multimodal tasks—to the video domain while preserving their original strengths. Our model <span style="color:red">surpasses previous video-based UMMs on VBench</span>, while also exhibiting strong zero-shot interleaved multimodal abilities in video, including chain-of-thought reasoning and text rendering.
+We present a cost-efficient approach to adapt image-based UMMs to the video domain while preserving their original strengths. Our model <span style="color:red">surpasses previous video-based UMMs on VBench</span>, while also exhibiting zero-shot multimodal interleaved abilities in video, including  CoT reasoning and text rendering.
 
 </div>
 </div>
@@ -47,20 +47,20 @@ We present a cost-efficient approach to adapt image-based UMMs—already strong 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching
+<span>FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching</span>
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
 <span style="color:red">**Under Review**</span>
 
-We proposed <span style="color:red">SyncCache</span>, a training-free, audio-aware, and memory-adaptive caching strategy tailored for audio-driven portrait animation, which achieves a superior speed–quality trade-off, delivering a <span style="color:red">4.12×</span> acceleration on Hunyuan-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with negligible degradation in visual quality or audio alignment.
+We proposed <span style="color:red">SyncCache</span>, a training-free, audio-aware, and memory-adaptive caching strategy tailored for audio-driven portrait animation, which delivers a <span style="color:red">4.12×</span> acceleration on Hunyuan-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with negligible degradation in visual quality or audio alignment.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.11820)
+<span>[Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.11820)</span>
 
 **Juncheng Ma**, Peiwen Sun, Yaoting Wang, Di Hu
 
