@@ -17,12 +17,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Juncheng Ma"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate@UCAS"
-  location         : "Beijing, China"
+  bio              : "Peking University"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=1AZu9JUAAAAJ:u5HHmVD_uO8C
-  email            : "majuncheng21@mails.ucas.ac.cn"
+  email            : "junchengma25@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
