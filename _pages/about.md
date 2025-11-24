@@ -33,7 +33,7 @@ My research interests primarily lie in video generation for real-world applicati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/omnigrid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span>Omni-Grid: Taming Image-based Unified Multimodal Models to Video</span>
+<b>Omni-Grid: Taming Image-based Unified Multimodal Models to Video</b>
 
 **Juncheng Ma**, Yuelin Li, Yufan Deng, Zhenyu Tang, Dongdong Yu, Li Yuan, Changhu Wang, Daquan Zhou†, Yonghong Tian†
 
@@ -47,7 +47,7 @@ We present a cost-efficient approach to adapt image-based UMMs to the video doma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span>FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching</span>
+<b>FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching</b>
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
@@ -60,7 +60,7 @@ We proposed <span style="color:red">SyncCache</span>, a training-free, audio-awa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span>[Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.11820)</span>
+<b>[Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://arxiv.org/abs/2407.11820)</b>
 
 **Juncheng Ma**, Peiwen Sun, Yaoting Wang, Di Hu
 
