@@ -18,11 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Short Bio 
-Hi! I am a senior undergraduate at <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences </a>(UCAS) . 
 
-I will begin my MPhil in ECE, Peking University in the fall of 2025.
+I am Juncheng Ma (马俊程), a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/'>School of Electronic and Computer Engineering</a>, <a href='https://english.pku.edu.cn/'>Peking University </a>, advised by Prof. <a href='https://yuanli2333.github.io/'>Li Yuan</a> and Prof. <a href='https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en'>Yonghong Tian </a>. I am also fortunate to work closely with Prof. <a href='https://zhoudaquan.github.io/homepage.io/index.html'>Daquan Zhou</a>. I received my B.E. degree from the <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> (UCAS) in 2025, where I was recognized as an Outstanding Graduate. 
 
-My research interest primarily includes Video Generation, Mutilmodal Learning and Large Language Models.
+My research interests primarily lie in video generation for real-world applications.
 
 # News
 - ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of UCAS.​
@@ -31,6 +30,30 @@ My research interest primarily includes Video Generation, Mutilmodal Learning an
 
 
 # Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/omnigrid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Omni-Grid: Taming Image-based Unified Multimodal Models to Video]
+
+**Juncheng Ma**, Yuelin Li, Yufan Deng, Zhenyu Tang, Dongdong Yu, Li Yuan, Changhu Wang, Daquan Zhou†, Yonghong Tian†
+
+<span style="color:red">**Under Review**</span>
+We present a cost-efficient approach to adapt image-based UMMs—already strong on interleaved multimodal tasks—to the video domain while preserving their original strengths. Our model <span style="color:red">surpasses previous video-based UMMs on VBench</span>, while also exhibiting strong zero-shot interleaved multimodal abilities in video, including chain-of-thought reasoning and text rendering.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching]
+
+**Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
+
+<span style="color:red">**Under Review**</span>
+We proposed <span style="color:red">SyncCache</span>, a training-free, audio-aware, and memory-adaptive caching strategy tailored for audio-driven portrait animation, which achieves a superior speed–quality trade-off, delivering a <span style="color:red">4.12×</span> acceleration on Hunyuan-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with negligible degradation in visual quality or audio alignment.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/teaser.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +74,7 @@ Rethink audio-visual semantic segmentatoin from a new perspective, with a progre
 
 **Research Intern, Shanghai AI Laboratory, Shanghai, China, 2024.7-2024.11**
 
-Research on video generation especially audio-driven image animation.
+Research on video generation especially audio-driven portrait animation.
 
 Supervised by Dr. Yanan Sun and Dr. <a href='https://zengyh1900.github.io/'>Yanhong Zeng</a>
 
@@ -78,7 +101,8 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 - *2024*, First-Level Scholarship of UCAS.
 
 # Educations
-- *2021.09 - present*, Undergraduate, University of Chinese Academy of Sciences. 
+- *2025.09 - present*, Master, Peking University. 
+- *2021.09 - 2025.6*, Undergraduate, University of Chinese Academy of Sciences. 
 
 
 
