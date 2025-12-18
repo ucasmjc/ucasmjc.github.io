@@ -33,7 +33,7 @@ My research interests primarily lie in video generation for real-world applicati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/omnigrid.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Omni-Grid: Taming Image-based Unified Multimodal Models to Video**
+**[Omni-Grid: Taming Image-based Unified Multimodal Models to Video]()**
 
 **Juncheng Ma**, Yuelin Li, Yufan Deng, Zhenyu Tang, Dongdong Yu, Li Yuan, Changhu Wang, Daquan Zhou†, Yonghong Tian†
 
@@ -47,7 +47,7 @@ We present a cost-efficient approach to adapt image-based UMMs to the video doma
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching**
+**[FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching]()**
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
