@@ -31,16 +31,16 @@ My research interests primarily lie in video generation for real-world applicati
 
 
 # Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/omnigrid.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/humanscale.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Omni-Grid: Taming Image-based Unified Multimodal Models to Video]()**
+**[HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining](https://arxiv.org/abs/2606.20521)**
 
-**Juncheng Ma**, Yuelin Li, Yufan Deng, Zhenyu Tang, Dongdong Yu, Li Yuan, Changhu Wang, Daquan Zhou†, Yonghong Tian†
+**Juncheng Ma**, Jianxin Bi, Yufan Deng, Xuanran Zhai, Kewei Zhang, Ye Huang, Bo Liang, Shukai Gong, Jiankai Tu, Xiaotian Tang, Jiaxin Li, Kaiqi Chen, Duomin Wang, Yuqi Wang, Bingyi Kang, Eric Huang, Zhiyang Dou, Zhen Dong, Enze Xie, Wojciech Matusik, Tat-Seng Chua, Daquan Zhou
 
-<span style="color:red">**Under Review**</span>
+<span style="color:red">**Technical Report**</span> \| [**arXiv**](https://arxiv.org/abs/2606.20521) \| [**Code**](https://github.com/DAGroup-PKU/HumanNet/)
 
-We present a cost-efficient approach to adapt image-based UMMs to the video domain while preserving their original strengths. Our model <span style="color:red">surpasses previous video-based UMMs on VBench</span>, while also exhibiting zero-shot multimodal interleaved abilities in video, including  CoT reasoning and text rendering.
+We study egocentric human video as a scalable pretraining source for embodied foundation models, showing that carefully filtered and labeled egocentric data can outperform real-robot data in action prediction and real-robot task execution.
 
 </div>
 </div>
@@ -106,5 +106,4 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 # Educations
 - *2025.09 - present*, Master, Peking University. 
 - *2021.09 - 2025.6*, Undergraduate, University of Chinese Academy of Sciences. 
-
 
