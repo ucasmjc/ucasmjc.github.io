@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/'>School of Electronic and Computer Engineering</a>, <a href='https://english.pku.edu.cn/'>Peking University </a>, advised by Prof. <a href='https://zhoudaquan.github.io/homepage.io/index.html'>Daquan Zhou</a> and Prof. <a href='https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en'>Yonghong Tian </a>. I received my B.E. degree from the <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> (UCAS) in 2025, where I was awarded as an Outstanding Graduate. 
 
-My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — feel free to <a href="mailto:junchengma25@stu.pku.edu.cn">contact me</a>.
+My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — feel free to contact me.
 
 # News
 - *2026.06*: &nbsp;🎉🎉 One paper on SyncCache is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
