@@ -22,7 +22,7 @@ I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/
 My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — feel free to contact me.
 
 # News
-- *2026.06*: &nbsp;🎉🎉 One paper on SyncCache is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
 - ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of UCAS.​
 - *2024.11*: &nbsp;🎉🎉 I win the China National Scholarship and First-Level Scholarship of UCAS!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV 2024</a>.
