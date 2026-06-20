@@ -45,7 +45,7 @@ We study egocentric human video as a scalable pretraining source for embodied fo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation](pdfs/ECCV2026.pdf)**
