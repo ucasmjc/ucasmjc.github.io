@@ -40,7 +40,7 @@ My research interests primarily lie in video generation for real-world applicati
 
 <span style="color:red">**Technical Report**</span> \| [**arXiv**](https://arxiv.org/abs/2606.20521) \| [**Code**](https://github.com/DAGroup-PKU/HumanNet/)
 
-We study egocentric human video as a scalable pretraining source for embodied foundation models, showing that carefully filtered and labeled egocentric data can outperform real-robot data in action prediction and real-robot task execution.
+We study egocentric human video as a scalable pretraining source for embodied foundation models, and show that with a carefully designed filtering and labeling pipeline: (i) egocentric pretraining <span style="color:red">scales with data</span> in the pretraining stage; (ii) this scaling consistently translates into <span style="color:red">stronger post-training performance</span>; and (iii) at matched data scale, <span style="color:red">egocentric human video surpasses real-robot data</span>, especially in out-of-distribution generalization.
 
 </div>
 </div>
@@ -48,11 +48,11 @@ We study egocentric human video as a scalable pretraining source for embodied fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation](pdfs/ECCV2026.pdf)**
+**SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation**
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
-<span style="color:red">**ECCV 2026**</span> \| [**PDF**](pdfs/ECCV2026.pdf)
+<span style="color:red">**ECCV 2026**</span>
 
 We propose <span style="color:red">SyncCache</span>, a training-free caching acceleration method tailored for DiT-based portrait animation that exploits spatial and modality asymmetries, delivering up to <span style="color:red">4.12×</span> acceleration on HunyuanVideo-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with near-lossless visual fidelity and precise audio alignment.
 </div>
