@@ -48,13 +48,13 @@ We study egocentric human video as a scalable pretraining source for embodied fo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/cache.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[FastAvatar: Accelerating Portrait Animation via Memory-Adaptive Caching]()**
+**[SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation](pdfs/ECCV2026.pdf)**
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
-<span style="color:red">**ECCV 2026**</span>
+<span style="color:red">**ECCV 2026**</span> \| [**PDF**](pdfs/ECCV2026.pdf)
 
-We proposed <span style="color:red">SyncCache</span>, a training-free, audio-aware, and memory-adaptive caching strategy tailored for audio-driven portrait animation, which delivers a <span style="color:red">4.12×</span> acceleration on Hunyuan-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with negligible degradation in visual quality or audio alignment.
+We propose <span style="color:red">SyncCache</span>, a training-free caching acceleration method tailored for DiT-based portrait animation that exploits spatial and modality asymmetries, delivering up to <span style="color:red">4.12×</span> acceleration on HunyuanVideo-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with near-lossless visual fidelity and precise audio alignment.
 </div>
 </div>
 
@@ -106,4 +106,3 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 # Educations
 - *2025.09 - present*, Master, Peking University. 
 - *2021.09 - 2025.6*, Undergraduate, University of Chinese Academy of Sciences. 
-
