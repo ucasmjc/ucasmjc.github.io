@@ -24,6 +24,7 @@ I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/
 My research interests primarily lie in video generation for real-world applications.
 
 # News
+- *2026.06*: &nbsp;🎉🎉 One paper on SyncCache is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
 - ​*2025.05*: &nbsp;🎉🎉 ​I am selected as an Outstanding Graduate of Beijing, with my undergraduate thesis named an Outstanding Graduation Paper of UCAS.​
 - *2024.11*: &nbsp;🎉🎉 I win the China National Scholarship and First-Level Scholarship of UCAS!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by <a href='https://eccv2024.ecva.net/'>ECCV 2024</a>.
@@ -51,7 +52,7 @@ We present a cost-efficient approach to adapt image-based UMMs to the video doma
 
 **Juncheng Ma**, Yuxuan Du, Yanan SUN, Zhening Xing, Changlin Li, Zhenyu Tang, Bo Li, Peng-Tao Jiang, Li Yuan, Daquan Zhou†, Yonghong Tian† 
 
-<span style="color:red">**Under Review**</span>
+<span style="color:red">**ECCV 2026**</span>
 
 We proposed <span style="color:red">SyncCache</span>, a training-free, audio-aware, and memory-adaptive caching strategy tailored for audio-driven portrait animation, which delivers a <span style="color:red">4.12×</span> acceleration on Hunyuan-Avatar and <span style="color:red">3.75×</span> on Wan-S2V with negligible degradation in visual quality or audio alignment.
 </div>
@@ -105,7 +106,5 @@ Supervised by Prof. <a href='https://dtaoo.github.io/'>Di Hu</a>
 # Educations
 - *2025.09 - present*, Master, Peking University. 
 - *2021.09 - 2025.6*, Undergraduate, University of Chinese Academy of Sciences. 
-
-
 
 
