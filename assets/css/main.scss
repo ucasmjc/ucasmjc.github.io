@@ -135,6 +135,31 @@ $accent: #00369f;
         transform: translateY(-3px);
         box-shadow: 5px 8px 16px rgba(0, 0, 0, .26);
     }
+
+    // Compact text column: smaller, tighter type -> fewer visual lines
+    .paper-box-text {
+        font-size: .92em;
+        line-height: 1.5;
+
+        p { margin: .4em 0; }
+        // de-emphasize the long author list so it reads as one tight block
+        p:nth-of-type(1) { margin-bottom: .25em; }   // title
+    }
+}
+
+// Desktop: a larger teaser and a balanced text column
+@include breakpoint($medium) {
+    .paper-box {
+        .paper-box-image {
+            min-width: 260px;
+            max-width: 42%;
+            img { width: 100%; max-width: 460px; }
+        }
+        .paper-box-text {
+            max-width: 56%;
+            padding-left: 1.8em;
+        }
+    }
 }
 
 // --- Section headings: subtle rule + colored accent ---
