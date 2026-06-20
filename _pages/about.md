@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Short Bio 
+I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/'>School of Electronic and Computer Engineering</a>, <a href='https://english.pku.edu.cn/'>Peking University </a>, advised by Prof. <a href='https://zhoudaquan.github.io/homepage.io/index.html'>Daquan Zhou</a> and Prof. <a href='https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en'>Yonghong Tian </a>. I received my B.E. degree from the <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> (UCAS) in 2025, where I was awarded as an Outstanding Graduate. 
 
-I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/'>School of Electronic and Computer Engineering</a>, <a href='https://english.pku.edu.cn/'>Peking University </a>, advised by Prof. <a href='https://yuanli2333.github.io/'>Li Yuan</a> and Prof. <a href='https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en'>Yonghong Tian </a>. I am also fortunate to work closely with Prof. <a href='https://zhoudaquan.github.io/homepage.io/index.html'>Daquan Zhou</a>. I received my B.E. degree from the <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> (UCAS) in 2025, where I was awarded as an Outstanding Graduate. 
-
-My research interests primarily lie in video generation for real-world applications.
+My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — if you are interested, please feel free to <a href='mailto:junchengma25@stu.pku.edu.cn'>reach out</a>.
 
 # News
 - *2026.06*: &nbsp;🎉🎉 One paper on SyncCache is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
@@ -36,7 +34,9 @@ My research interests primarily lie in video generation for real-world applicati
 
 **[HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining](https://arxiv.org/abs/2606.20521)**
 
-**Juncheng Ma**, Jianxin Bi, Yufan Deng, Xuanran Zhai, Kewei Zhang, Ye Huang, Bo Liang, Shukai Gong, Jiankai Tu, Xiaotian Tang, Jiaxin Li, Kaiqi Chen, Duomin Wang, Yuqi Wang, Bingyi Kang, Eric Huang, Zhiyang Dou, Zhen Dong, Enze Xie, Wojciech Matusik, Tat-Seng Chua, Daquan Zhou
+**Juncheng Ma**\*, Jianxin Bi\*, Yufan Deng, Xuanran Zhai, Kewei Zhang, Ye Huang, Bo Liang, Shukai Gong, Jiankai Tu, Xiaotian Tang, Jiaxin Li, Kaiqi Chen, Duomin Wang, Yuqi Wang, Bingyi Kang, Eric Huang, Zhiyang Dou, Zhen Dong, Enze Xie, Wojciech Matusik, Tat-Seng Chua, Daquan Zhou
+
+<span style="font-size:0.85em">(\* Equal contribution)</span>
 
 <span style="color:red">**Technical Report**</span> \| [**arXiv**](https://arxiv.org/abs/2606.20521) \| [**Code**](https://github.com/DAGroup-PKU/HumanNet/)
 

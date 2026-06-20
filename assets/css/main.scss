@@ -106,4 +106,62 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+    border-radius: 4px;
+}
+
+/* ============================================================
+ *  Custom visual polish
+ * ============================================================ */
+
+$accent: #00369f;
+
+// --- Paper / experience cards ---
+.paper-box {
+    border-bottom: 1px solid #eef0f5;
+    border-radius: 10px;
+    padding: 1.6em 1em;
+    transition: background-color .25s ease, box-shadow .25s ease;
+
+    &:hover {
+        background-color: #f7f9fd;
+        box-shadow: 0 6px 22px rgba(20, 40, 90, .07);
+    }
+
+    .paper-box-image img {
+        border-radius: 8px;
+        transition: transform .28s ease, box-shadow .28s ease;
+    }
+    .paper-box-image:hover img {
+        transform: translateY(-3px);
+        box-shadow: 5px 8px 16px rgba(0, 0, 0, .26);
+    }
+}
+
+// --- Section headings: subtle rule + colored accent ---
+.page__content {
+    h1 {
+        padding-bottom: .3em;
+        border-bottom: 2px solid #e9ecf4;
+        position: relative;
+
+        &:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: -2px;
+            width: 2.2em;
+            height: 2px;
+            background-color: $accent;
+        }
+    }
+
+    // airier news / lists
+    ul > li { margin-bottom: .4em; }
+
+    // smooth, themed links
+    a {
+        transition: color .15s ease;
+        text-decoration: none;
+        &:hover { color: $accent; text-decoration: underline; }
+    }
 }
