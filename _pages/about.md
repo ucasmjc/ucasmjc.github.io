@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year Master’s student at the <a href='https://www.ece.pku.edu.cn/'>School of Electronic and Computer Engineering</a>, <a href='https://english.pku.edu.cn/'>Peking University </a>, advised by Prof. <a href='https://zhoudaquan.github.io/homepage.io/index.html'>Daquan Zhou</a> and Prof. <a href='https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en'>Yonghong Tian </a>. I received my B.E. degree from the <a href='https://www.ucas.ac.cn/index.htm'>University of Chinese Academy of Sciences</a> (UCAS) in 2025, where I was awarded as an Outstanding Graduate. 
 
-My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — if you are interested, please feel free to <a href='mailto:junchengma25@stu.pku.edu.cn'>reach out</a>.
+My current research interest centers on **world-action models (WAM)** for embodied intelligence. I am actively seeking **collaboration and internship opportunities** — feel free to reach me at <a href="mailto:junchengma25@stu.pku.edu.cn">junchengma25@stu.pku.edu.cn</a>.
 
 # News
 - *2026.06*: &nbsp;🎉🎉 One paper on SyncCache is accepted by <a href='https://eccv.ecva.net/Conferences/2026'>ECCV 2026</a>.
@@ -40,7 +40,7 @@ My current research interest centers on **world-action models (WAM)** for embodi
 
 <span style="color:red">**Technical Report**</span> \| [**arXiv**](https://arxiv.org/abs/2606.20521) \| [**Code**](https://github.com/DAGroup-PKU/HumanNet/)
 
-We study egocentric human video as a scalable pretraining source for embodied foundation models, and show that with a carefully designed filtering and labeling pipeline: (i) egocentric pretraining <span style="color:red">scales with data</span> in the pretraining stage; (ii) this scaling consistently translates into <span style="color:red">stronger post-training performance</span>; and (iii) at matched data scale, <span style="color:red">egocentric human video surpasses real-robot data</span>, especially in out-of-distribution generalization.
+With a carefully designed filtering and labeling pipeline, we show that egocentric human video is a scalable pretraining source for embodied foundation models that <span style="color:red">surpasses real-robot data</span>, especially in out-of-distribution generalization.
 
 </div>
 </div>
